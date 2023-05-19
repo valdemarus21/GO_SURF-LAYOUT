@@ -16,6 +16,8 @@ The built version of the project is located in the 'dist' folder, all the build 
 
 The stack used is : 
 * html
+* js
+* jQuery
 * scss
 * gulp
 * animate.css (library for animation)
