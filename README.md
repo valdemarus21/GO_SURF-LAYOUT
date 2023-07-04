@@ -1,3 +1,4 @@
+Link to github pages: https://valdemarus21.github.io/GO_SURF-LAYOUT/
 To view the project :
 
 1) Clone this repository : 
